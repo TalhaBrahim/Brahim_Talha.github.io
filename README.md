@@ -1,6 +1,3 @@
-<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
-
-<div style="font-family: 'Roboto', sans-serif;">
 
 # Portfolio de [Votre Nom]
 
@@ -95,5 +92,3 @@ Bienvenue sur mon portfolio ! Je suis [votre rôle, par exemple, Analyste de Don
 - GitHub : [Votre URL GitHub]
 
 ---
-
-</div>
