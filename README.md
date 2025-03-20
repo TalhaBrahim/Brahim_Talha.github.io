@@ -1,6 +1,6 @@
-# Portfolio de [Votre Nom]
+## Portfolio de [Brahim Talha]
 
-Je suis un futur analyste de données, et grâce à mes compétences en machine learning, je vise à devenir data scientist. Passionné par la résolution de problèmes complexes, je maîtrise l'exploration et le nettoyage des données, la modélisation prédictive (supervised et unsupervised), ainsi que l'analyse de séries temporelles (ARIMA, SARIMA, XGBOOST). Actuellement, je me concentre sur les réseaux de neurones récurrents (LSTM). Mon objectif est d'appliquer mes connaissances en analyse prescriptive, d'automatiser des processus décisionnels et de contribuer à des projets innovants pour évoluer vers le domaine de la science des données.
+Je suis un futur analyste de données, et grâce à mes compétences en machine learning, je vise à devenir data scientist. Passionné par la résolution de problèmes complexes, je maîtrise l'exploration et le nettoyage des données, la modélisation prédictive (supervised et unsupervised), ainsi que l'analyse de séries temporelles (ARIMA, SARIMA, XGBOOST). Actuellement, je me concentre sur les réseaux de neurones récurrents (LSTM). Mon objectif est d'appliquer mes connaissances en analyse prescriptive, d'automatiser des processus décisionnels et de contribuer à des projets innovants pour évoluer vers le domaine de la science des données
 ---
 
 ## À Propos de Moi
@@ -70,7 +70,7 @@ Je suis un futur analyste de données, et grâce à mes compétences en machine 
 - Geopy
 
 **Résultats Clés**  
-[![Jupyter_notebook ]](./Moroccan_Hospitals_Analysis/hospital_analysis(5).html)  
+[![Jupyter_notebook ]](hospital_analysis(5).html)  
 *Cliquez pour voir le code*
 
 ### Conception d'un Dashboard Power BI pour l'Analyse des Utilisateurs
@@ -90,7 +90,7 @@ Analyser le comportement des utilisateurs à partir d'un dataset Kaggle pour gé
 - Dataset Kaggle
 
 **Résultats Clés**
-[📂 Voir toutes les captures d'écran](./C2C_App_Dashboard/Screenshots/)
+[📂 Voir toutes les captures d'écran](./C2C_App_Dashboard/Screenshots)
 *Cliquez pour voir les Captures d'écran*
 [📥 Télécharger le dashboard (.pbix)](./C2C_App_Dashboard/C2C_File.pbix)
 *Cliquez pour télécharger le Dashboard comme un fichier 'pbix' *
