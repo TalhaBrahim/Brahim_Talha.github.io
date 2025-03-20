@@ -1,6 +1,6 @@
 ## Portfolio de [Brahim Talha]
 
-### Je suis un futur analyste de données, et grâce à mes compétences en machine learning, je vise à devenir data scientist. Passionné par la résolution de problèmes complexes, je maîtrise l'exploration et le nettoyage des données, la modélisation prédictive (supervised et unsupervised), ainsi que l'analyse de séries temporelles (ARIMA, SARIMA, XGBOOST). Actuellement, je me concentre sur les réseaux de neurones récurrents (LSTM). Mon objectif est d'appliquer mes connaissances en analyse prescriptive, d'automatiser des processus décisionnels et de contribuer à des projets innovants pour évoluer vers le domaine de la science des données
+##### Je suis un futur analyste de données, et grâce à mes compétences en machine learning, je vise à devenir data scientist. Passionné par la résolution de problèmes complexes, je maîtrise l'exploration et le nettoyage des données, la modélisation prédictive (supervised et unsupervised), ainsi que l'analyse de séries temporelles (ARIMA, SARIMA, XGBOOST). Actuellement, je me concentre sur les réseaux de neurones récurrents (LSTM). Mon objectif est d'appliquer mes connaissances en analyse prescriptive, d'automatiser des processus décisionnels et de contribuer à des projets innovants pour évoluer vers le domaine de la science des données
 ---
 
 ## À Propos de Moi
