@@ -90,7 +90,7 @@ Analyser le comportement des utilisateurs à partir d'un dataset Kaggle pour gé
 - Dataset Kaggle
 
 **Résultats Clés**
-[📂 Voir toutes les captures d'écran](./C2C_App_Dashboard/Screenshots)
+[📂 Voir toutes les captures d'écran](./C2C_App_Dashboard/dashboard_screen_shots.pdf)
 *Cliquez pour voir les Captures d'écran*
 [📥 Télécharger le dashboard (.pbix)](./C2C_App_Dashboard/C2C_File.pbix)
 *Cliquez pour télécharger le Dashboard comme un fichier 'pbix' *
