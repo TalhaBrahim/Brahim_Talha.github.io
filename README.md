@@ -9,7 +9,6 @@
 - **Localisation** : [Maroc]
 - **Email** : [brahimtalha556@gmail.com]
 - **LinkedIn** : [www.linkedin.com/in/brahim-talha]
-- **GitHub** : [(https://github.com/TalhaBrahim/Brahim_Talha.github.io)]
 
 ---
 
@@ -119,6 +118,6 @@ Extraire la base de données Northwind et charger les données dans un modèle d
 📫 **Contactez-moi**  
 - Email : [brahimtalha556@gmail.com]
 - LinkedIn : [www.linkedin.com/in/brahim-talha]
-- GitHub : [https://github.com/TalhaBrahim/Brahim_Talha.github.io]
+
 
 ---
