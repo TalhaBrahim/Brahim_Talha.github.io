@@ -18,11 +18,8 @@
 - **Diplôme** : Diplôme en Intelligence Artificielle (Spécialisation: Analyse de Données)  
 - **Établissement** : CMC Rabat (Première promotion - année d'entrée 2023)  
 - **Année de Diplômation** : Prévue en 2025  
-- **Cours Pertinents** :  
-  - Prédiction de séries temporelles avec LSTM (cours actuel)  
-  - Traitement de données et analyse exploratoire  
-  - Fondements du Machine Learning  
-  - Statistiques appliquées à l'IA
+- **Cours Pertinents**  
+  - Prédiction de séries temporelles avec LSTM 
 
 ---
 
@@ -42,9 +39,10 @@
 - Pyvis
 - Powerbi
 - Dash
+  
 **Autres**
-  Excel
-  ETL (Talend)
+- Excel
+- ETL (Talend)
 
 ---
 
@@ -69,8 +67,8 @@
 - Geopy
 
 **Résultats Clés**  
-[![Jupyter_notebook ]](hospital_analysis(5).html)  
-*Cliquez pour voir le code*
+[![Vous pouvez cliquer ici pour voir le code avec une explication en anglais]](hospital_analysis(5).html)  
+*Cliquez*
 
 ### Conception d'un Dashboard Power BI pour l'Analyse des Utilisateurs
 
